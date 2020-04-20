@@ -1,0 +1,35 @@
+@font-face {
+	font-family: 'OpenSans';
+	src: url('opensans-regular.eot');
+	src: url('opensans-regular.eot?#iefix') format('embedded-opentype'),  url('opensans-regular.woff') format('woff'),  url('opensans-regular.ttf') format('truetype'),  url('opensans-regular.svg#opensans-regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+    font-family: 'OpenSans';
+    src: url('opensans-semibold-webfont.eot');
+    src: url('opensans-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('opensans-semibold-webfont.woff2') format('woff2'),
+         url('opensans-semibold-webfont.woff') format('woff'),
+         url('opensans-semibold-webfont.ttf') format('truetype'),
+         url('opensans-semibold-webfont.svg#open_sanssemibold') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+	font-family: 'OpenSans';
+	src: url('opensans-bold.eot');
+	src: url('opensans-bold.eot?#iefix') format('embedded-opentype'),  url('opensans-bold.woff') format('woff'),  url('opensans-bold.ttf') format('truetype'),  url('opensans-bold.svg#opensans-bold') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+  font-family: 'fontello';
+  src: url('fontello.eot?46982480');
+  src: url('fontello.eot?46982480#iefix') format('embedded-opentype'),
+       url('fontello.woff?46982480') format('woff'),
+       url('fontello.ttf?46982480') format('truetype'),
+       url('fontello.svg?46982480#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
